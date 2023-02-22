@@ -1,0 +1,17 @@
+{
+    "hotel":[
+        {
+            "id" : 0,
+            "name" : "Hotel 1",
+            "img" : "https://imgak.mmtcdn.com/pwa_v3/pwa_hotel_assets/map-bg-new.png",
+            "address":"blah"
+        },
+        {
+            "id" : 1,
+            "name" : "Hotel 2",
+            "img" : "https://imgak.mmtcdn.com/pwa_v3/pwa_hotel_assets/map-bg-new.png",
+            "address":"blah"
+        }
+
+    ]
+}
