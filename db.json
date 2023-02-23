@@ -1,5 +1,5 @@
 {
-    "hotel" :{
+    "hotel":{
     "delhi": [
     {
     "hotelName": "Kelvish Hotel Near Delhi Airport",
@@ -203,5 +203,132 @@
     "hotelImage": "https://imgak.mmtcdn.com/pwa_v3/pwa_hotel_assets/web/defaultbg.png",
     "price": "₹ 12,000"
   }
+],
+"goa" : [
+  {
+    "hotelName": "ibis Styles Goa Calangute Resort - An Accor Brand",
+    "hotelImage": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201606272320021734-ba124e64917411e78cd70224510f5e5b.jpg?&output-quality=75&downsize=243:162&crop=243:162;0,7&output-format=jpg",
+    "price": "₹ 8,499"
+  },
+  {
+    "hotelName": "Magnum Resorts- Near Candolim Beach",
+    "hotelImage": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201806261703123778-a16cefb6a37c11ed9a1b0a58a9feac02.jpg?&output-quality=75&downsize=243:162&output-format=jpg",
+    "price": "₹ 4,415"
+  },
+  {
+    "hotelName": "Resort Terra Paraiso - A Beach Property",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/a7f9f0aa6e0c11e7b231025f77df004f.jpg?&output-quality=75&downsize=243:162&crop=243:162;36,0&output-format=jpg",
+    "price": "₹ 8,409"
+  },
+  {
+    "hotelName": "DoubleTree by Hilton Goa - Panaji",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/ec80b39efcde11ea84570242ac110002.jpg?&output-quality=75&downsize=243:162&crop=243:162;23,0&output-format=jpg",
+    "price": "₹ 12,999"
+  },
+  {
+    "hotelName": "The Avenue,Calangute",
+    "hotelImage": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201811081454461351-0165c612f77f11e8ba650242ac110003.jpg?&output-quality=75&downsize=243:162&output-format=jpg",
+    "price": "₹ 5,170"
+  },
+  {
+    "hotelName": "Ocean Palms Goa",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/73d67e347e6b11eaa1ac0242ac110003.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+    "price": "₹ 5,900"
+  },
+  {
+    "hotelName": "HARD ROCK HOTEL GOA",
+    "hotelImage": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201302141837083549-2ccb73aa9fd711e9a00d0242ac110002.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+    "price": "₹ 15,201"
+  },
+  {
+    "hotelName": "VITS Shanti Solitaire, Arpora",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/fdff1e44652a11ebb78c0242ac110002.jpg?&output-quality=75&downsize=243:162&crop=243:162;0,10&output-format=webp",
+    "price": "₹ 4,177"
+  },
+  {
+    "hotelName": "So My Resorts (SoMy Resorts)",
+    "hotelImage": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201409091434047930-e777b1303a1a11eb96b00242ac110003.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+    "price": "₹ 5,401"
+  },
+  {
+    "hotelName": "Ivy Retreat Apartments",
+    "hotelImage": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20151230190314680-fa127a88e11911e981b30242ac110002.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+    "price": "₹ 2,389"
+  },
+  {
+    "hotelName": "Neelam's The Grand",
+    "hotelImage": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20070110213136251-82d4e3cc45e211eca3370a58a9feac02.jpg?&output-quality=75&downsize=243:162&crop=243:162;22,0&output-format=webp",
+    "price": "₹ 5,090"
+  },
+  {
+    "hotelName": "SWEET VALLEY COTTAGES Arambol",
+    "hotelImage": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202103190931209467-42cc0ab88c8c11eb84bf0242ac110004.jpg?&output-quality=75&downsize=243:162&crop=243:162;22,0&output-format=webp",
+    "price": "₹ 1,005"
+  },
+  {
+    "hotelName": "goSTOPS Goa, Baga",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/d2ce744ed52811ec8ed20a58a9feac02.png?&output-quality=75&downsize=243:162&output-format=webp",
+    "price": "₹ 1,598"
+  },
+  {
+    "hotelName": "Zone Connect Goa, Calangute",
+    "hotelImage": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201207161750254452-56427776de7511ecb4650a58a9feac02.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+    "price": "₹ 5,600"
+  },
+  {
+    "hotelName": "Adamo - The Bellus",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/a1655070734711eabb8e0242ac110002.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+    "price": "₹ 6,229"
+  },
+  {
+    "hotelName": "Casa De Goa Boutique Resort",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/cc917bde7bbc11e5b89f0015c5f4277e.jfif?&output-quality=75&downsize=243:162&crop=243:162;38,0&output-format=webp",
+    "price": "₹ 6,966"
+  },
+  {
+    "hotelName": "Agonda Shell Beach Resort | Rooms & Guided Treks",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/57bc8e324db811ecbb7e0a58a9feac02.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+    "price": "₹ 3,628"
+  },
+  {
+    "hotelName": "Resort Rio",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/1e8043da24a511e6b5e45ee5da2daa2a.jpg?&output-quality=75&downsize=243:162&crop=243:162;3,0&output-format=webp",
+    "price": "₹ 13,602"
+  },
+  {
+    "hotelName": "Country Inn & Suites by Radisson, Candolim Goa",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/5d53235aad1c11e887c00a035d9f8d84.jpg?&output-quality=75&downsize=243:162&crop=243:162;0,0&output-format=webp",
+    "price": "₹ 18,605"
+  },
+  {
+    "hotelName": "SinQ Prive",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/5dbd0f269a0d11e8b73802a895e77b78.jpg?&output-quality=75&downsize=243:162&crop=243:162;5,0&output-format=webp",
+    "price": "₹ 5,264"
+  },
+  {
+    "hotelName": "Radisson Goa Candolim",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/ffe72710de4211eb83aa0242ac110002.jpg?&output-quality=75&downsize=243:162&crop=243:162;22,0&output-format=webp",
+    "price": "₹ 18,500"
+  },
+  {
+    "hotelName": "De mandarin Beach resort suites and villas",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/0fd9dc487f8c11e4949a5ee5da2daa2a.jfif?&output-quality=75&downsize=243:162&output-format=webp",
+    "price": "₹ 12,684"
+  },
+  {
+    "hotelName": "Fairfield by Marriott Goa Anjuna",
+    "hotelImage": "https://imgak.mmtcdn.com/pwa_v3/pwa_hotel_assets/web/defaultbg.png",
+    "price": "₹ 9,699"
+  },
+  {
+    "hotelName": "Hotel Reemz, Beach Heaven, Anjuna, Goa",
+    "hotelImage": "https://imgak.mmtcdn.com/pwa_v3/pwa_hotel_assets/web/defaultbg.png",
+    "price": "₹ 3,074"
+  },
+  {
+    "hotelName": "Park Regis",
+    "hotelImage": "https://imgak.mmtcdn.com/pwa_v3/pwa_hotel_assets/web/defaultbg.png",
+    "price": "₹ 10,449"
+  }
 ]
-}}
+    }}
