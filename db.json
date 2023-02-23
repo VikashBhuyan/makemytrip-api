@@ -1,17 +1,78 @@
 {
-    "hotel":[
-        {
-            "id" : 0,
-            "name" : "Hotel 1",
-            "img" : "https://imgak.mmtcdn.com/pwa_v3/pwa_hotel_assets/map-bg-new.png",
-            "address":"blah"
-        },
-        {
-            "id" : 1,
-            "name" : "Hotel 2",
-            "img" : "https://imgak.mmtcdn.com/pwa_v3/pwa_hotel_assets/map-bg-new.png",
-            "address":"blah"
-        }
-
-    ]
+    "hotel": [
+    {
+    "hotelName": "Kelvish Hotel Near Delhi Airport",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/e772b3b80cca11ed85ba0a58a9feac02.jpg?&output-quality=75&downsize=243:162&output-format=jpg",
+    "price": "₹ 1,671"
+    },
+    {
+    "hotelName": "Hotel Aasiyana Inn",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/000895aa769911ecafea0a58a9feac02.jpg?&output-quality=75&downsize=243:162&crop=243:162;0,10&output-format=jpg",
+    "price": "₹ 950"
+    },
+     {
+    "hotelName": "The Elevate Hotel",
+    "hotelImage": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201809111819083735-ed3e623e7d2b11ed9c5a0a58a9feac02.jpg?&output-quality=75&downsize=243:162&output-format=jpg",
+    "price": "₹ 2,464"
+    },
+  {
+    "hotelName": "The Gold Regency @ Paharganj",
+    "hotelImage": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201712211031162716-41b2a43012f611ebafe70242ac110003.jpg?&output-quality=75&downsize=243:162&output-format=jpg",
+    "price": "₹ 3,227"
+  },
+  {
+    "hotelName": "Hotel Aman Continental @ Paharganj",
+    "hotelImage": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201412311314381986-e9bad9f0669311e58aa3daf4768ad8d9.jpg?&output-quality=75&downsize=243:162&output-format=jpg",
+    "price": "₹ 4,218"
+  },
+  {
+    "hotelName": "The Gold Inn@Walking Distance From New Delhi Railway Station",
+    "hotelImage": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201801171858068349-55a798f2fa9811e793f702755708f0b3.jpg?&output-quality=75&downsize=243:162&crop=243:162;3,0&output-format=webp",
+    "price": "₹ 2,514"
+  },
+  {
+    "hotelName": "Pullman New Delhi International Airport- An Accor Luxury Brand",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/80de8864360911eb8a620242ac110003.jpg?&output-quality=75&downsize=243:162&crop=243:162;0,5&output-format=webp",
+    "price": "₹ 18,500"
+  },
+  {
+    "hotelName": "Hotel Almati Inn",
+    "hotelImage": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201810121712152116-256f85f6229511ea92020242ac140003.jpg?&output-quality=75&downsize=243:162&crop=243:162;0,10&output-format=webp",
+    "price": "₹ 3,340"
+  },
+  {
+    "hotelName": "Le ROI, Delhi@ New Delhi Railway Station",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/fe559a4470a011e7add5025f77df004f.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+    "price": "₹ 4,862"
+  },
+  {
+    "hotelName": "Hotel Smart Signature",
+    "hotelImage": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201909231517385885-ca45fcdc9e0c11ec94bb0a58a9feac02.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+    "price": "₹ 1,163"
+  },
+  {
+    "hotelName": "Hotel Trans International",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/078205da479e11eb860a0242ac110003.jpg?&output-quality=75&downsize=243:162&crop=243:162;0,16&output-format=webp",
+    "price": "₹ 3,902"
+  },
+  {
+    "hotelName": "The Hosteller Delhi | Private Rooms & Dorms",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/3605cb706f1b11eda4560a58a9feac02.jpg?&output-quality=75&downsize=243:162&crop=243:162;0,4&output-format=webp",
+    "price": "₹ 1,803"
+  },
+  {
+    "hotelName": "Hotel Vertu",
+    "hotelImage": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202012221936523613-53fd4e689f1a11ec9c910a58a9feac02.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+    "price": "₹ 2,833"
+  },
+  {
+    "hotelName": "The Ashok",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/e3eaa7fcee2411ebba320a58a9feac02.jpg?&output-quality=75&downsize=243:162&crop=243:162;0,0&output-format=webp",
+    "price": "₹ 6,998"
+  },
+  {
+    "hotelName": "Hotel Platinum",
+    "hotelImage": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201909231016023601-3d9276f0754111ed9de00a58a9feac02.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+    "price": "₹ 1,393"
+  }]
 }
