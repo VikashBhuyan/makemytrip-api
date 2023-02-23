@@ -330,5 +330,132 @@
     "hotelImage": "https://imgak.mmtcdn.com/pwa_v3/pwa_hotel_assets/web/defaultbg.png",
     "price": "₹ 10,449"
   }
+],
+"guwahati" : [
+  {
+    "hotelName": "Hotel SJ International",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/6b84da566f4511e795bd025f77df004f.jpg?&output-quality=75&downsize=243:162&output-format=jpg",
+    "price": "₹ 1,786"
+  },
+  {
+    "hotelName": "Hotel Mirana,Guwahati",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/7ee660f6246311ec91a00a58a9feac02.jpeg?&output-quality=75&downsize=243:162&output-format=jpg",
+    "price": "₹ 1,644"
+  },
+  {
+    "hotelName": "Hotel D Agneedeep",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/109d999e65b011e99d800242ac110002.jpg?&output-quality=75&downsize=243:162&output-format=jpg",
+    "price": "₹ 2,751"
+  },
+  {
+    "hotelName": "Ginger Guwahati",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/91a20190780111e7a2030a4cef95d023.jpg?&output-quality=75&downsize=243:162&output-format=jpg",
+    "price": "₹ 2,249"
+  },
+  {
+    "hotelName": "KB HOMES,GUWAHATI",
+    "hotelImage": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201912212124034784-59085f4c233e11eab5b00242ac110006.jpg?&output-quality=75&downsize=243:162&output-format=jpg",
+    "price": "₹ 1,483"
+  },
+  {
+    "hotelName": "Hotel D Courtyard",
+    "hotelImage": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201509021514269979-32b1cfd8d4ec11e79b5a02755708f0b3.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+    "price": "₹ 4,230"
+  },
+  {
+    "hotelName": "Hotel Priya Palace",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/71bdb9403f2f11e9ad520242ac110002.jpeg?&output-quality=75&downsize=243:162&output-format=webp",
+    "price": "₹ 1,624"
+  },
+  {
+    "hotelName": "MAGIC SQUARE,HOTEL",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/acc025b2973511ec99110a58a9feac02.jpeg?&output-quality=75&downsize=243:162&crop=243:162;0,10&output-format=webp",
+    "price": "₹ 1,512"
+  },
+  {
+    "hotelName": "Urban Cottage",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/b479303a6d2b11eb9f410242ac110002.jpeg?&output-quality=75&downsize=243:162&output-format=webp",
+    "price": "₹ 2,006"
+  },
+  {
+    "hotelName": "The Ornate",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/34748c36942011e886640adba321b900.jpg?&output-quality=75&downsize=243:162&crop=243:162;36,0&output-format=webp",
+    "price": "₹ 3,760"
+  },
+  {
+    "hotelName": "Hotel Vrinda Regency",
+    "hotelImage": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201804261007537463-2a2e5ef6337911ea88ba0242ac110005.jpg?&output-quality=75&downsize=243:162&crop=243:162;0,8&output-format=webp",
+    "price": "₹ 2,009"
+  },
+  {
+    "hotelName": "Amrit Regency",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/ba9efcb2e4be11e39885f67d89ce50a3.jpeg?&output-quality=75&downsize=243:162&crop=243:162;0,80&output-format=webp",
+    "price": "₹ 2,115"
+  },
+  {
+    "hotelName": "Swagatam Inn,Guwahati",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/cd08acd617b511ecbb750a58a9feac02.jpeg?&output-quality=75&downsize=243:162&crop=243:162;54,0&output-format=webp",
+    "price": "₹ 1,682"
+  },
+  {
+    "hotelName": "Novotel Guwahati GS Road",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/76842d12e41411e9837c0242ac110003.jpg?&output-quality=75&downsize=243:162&crop=243:162;0,8&output-format=webp",
+    "price": "₹ 7,699"
+  },
+  {
+    "hotelName": "Airport Guest house- A boutique stay",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/09567514f17611e9bb890242ac110002.jpg?&output-quality=75&downsize=243:162&crop=243:162;36,0&output-format=webp",
+    "price": "₹ 2,255"
+  },
+  {
+    "hotelName": "RJBGrand",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/8c56fe744f5911ebb1e30242ac110002.jpg?&output-quality=75&downsize=243:162&crop=243:162;22,0&output-format=webp",
+    "price": "₹ 1,256"
+  },
+  {
+    "hotelName": "Executive Guest House",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/1007a75817cd11e99bd00242ac110002.jpeg?&output-quality=75&downsize=243:162&crop=243:162;22,0&output-format=webp",
+    "price": "₹ 849"
+  },
+  {
+    "hotelName": "Joyable Homestay | Rooms & Caretaker",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/9003a0b072cf11eb94250242ac110002.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+    "price": "₹ 1,188"
+  },
+  {
+    "hotelName": "Ratnamouli Palace",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/ed811af65b6211edaa950a58a9feac02.jpg?&output-quality=75&downsize=243:162&crop=243:162;0,10&output-format=webp",
+    "price": "₹ 6,262"
+  },
+  {
+    "hotelName": "Bluemoon Guest house,Guwahati",
+    "hotelImage": "https://r1imghtlak.mmtcdn.com/eefe4170b74511e9a0670242ac110003.jpeg?&output-quality=75&downsize=243:162&crop=243:162;0,26&output-format=webp",
+    "price": "₹ 1,131"
+  },
+  {
+    "hotelName": "Tusti Greens Guest House,Guwahati",
+    "hotelImage": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201709111335005763-87c97424b43a11e9b946025f77df004f.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+    "price": "₹ 1,162"
+  },
+  {
+    "hotelName": "Treebo Trend Hotel Mobi VIP Airport",
+    "hotelImage": "https://imgak.mmtcdn.com/pwa_v3/pwa_hotel_assets/web/defaultbg.png",
+    "price": "₹ 4,692"
+  },
+  {
+    "hotelName": "Grey House Inn",
+    "hotelImage": "https://imgak.mmtcdn.com/pwa_v3/pwa_hotel_assets/web/defaultbg.png",
+    "price": "₹ 1,551"
+  },
+  {
+    "hotelName": "Hotel Knight Inn",
+    "hotelImage": "https://imgak.mmtcdn.com/pwa_v3/pwa_hotel_assets/web/defaultbg.png",
+    "price": "₹ 1,772"
+  },
+  {
+    "hotelName": "Aadoroni Central Homestay | Room & Caretaker",
+    "hotelImage": "https://imgak.mmtcdn.com/pwa_v3/pwa_hotel_assets/web/defaultbg.png",
+    "price": "₹ 1,077"
+  }
 ]
     }}
